@@ -1,0 +1,10 @@
+^C:\USERS\FARES\COMPUTER-GRAPHICS-RAY-CASTING\BUILD-RELEASE\CMAKEFILES\FA4AAD22FCAA79424C5D77D2F5307861\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Fares/computer-graphics-ray-casting -BC:/Users/Fares/computer-graphics-ray-casting/build-release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Fares/computer-graphics-ray-casting/build-release/raycasting.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

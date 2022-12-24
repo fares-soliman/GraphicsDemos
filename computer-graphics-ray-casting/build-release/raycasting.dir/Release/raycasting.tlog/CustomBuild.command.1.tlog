@@ -1,0 +1,10 @@
+^C:\USERS\FARES\COMPUTER-GRAPHICS-RAY-CASTING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Fares/computer-graphics-ray-casting -BC:/Users/Fares/computer-graphics-ray-casting/build-release --check-stamp-file C:/Users/Fares/computer-graphics-ray-casting/build-release/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

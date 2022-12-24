@@ -1,0 +1,94 @@
+﻿  main.cpp
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(8,14): warning C4099: 'Object': type name first seen using 'class' now seen using 'struct'
+C:\Users\Fares\computer-graphics-ray-casting\include\Object.h(7): message : see declaration of 'Object'
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(122,38): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(122,53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(122,68): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(123,38): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(123,53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(123,68): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(124,38): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(124,53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(124,68): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(44,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(46,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(77,39): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint8_t
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(83,20): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(84,20): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Fares\computer-graphics-ray-casting\main.cpp(85,20): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(52,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(115): message : see reference to function template instantiation 'bool igl::readSTL<double,double,int>(const std::string &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(162,18): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(59): message : see reference to function template instantiation 'bool igl::readSTL<double,double,int>(FILE *,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+C:\Users\Fares\computer-graphics-ray-casting\include\read_json.h(115): message : see reference to function template instantiation 'bool igl::readSTL<double,double,int>(const std::string &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(162,32): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(162,46): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(189,29): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(245,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(91,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(146,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(165,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(175,19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(183,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fares\computer-graphics-ray-casting\include\readSTL.h(201,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  raycasting.vcxproj -> C:\Users\Fares\computer-graphics-ray-casting\build-release\Release\raycasting.exe
