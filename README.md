@@ -1,5 +1,5 @@
 # GraphicsDemos
-Multiple demo programs exploring the basics of computer graphics (Completed using the CSC317 course offered at UofT. Assignment READMEs are included)
+Multiple demo programs exploring the basics of computer graphics (Completed with the CSC317 course offered at UofT. Assignment READMEs are included)
 
 ## Rasterization
 
